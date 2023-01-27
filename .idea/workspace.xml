@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24f7969c-389d-4f10-b685-ff50277bbfaa" name="Changes" comment="Initial Commit of finished blog project">
-      <change beforePath="$PROJECT_DIR$/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
+    <list default="true" id="24f7969c-389d-4f10-b685-ff50277bbfaa" name="Changes" comment="Initial Commit of finished blog project - add gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674815679054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit of finished blog project">
+      <created>1674815784836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815784836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit of finished blog project - add gitignore">
+      <created>1674816365274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674816365274</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +202,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit of finished blog project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit of finished blog project" />
+    <MESSAGE value="Initial Commit of finished blog project - add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit of finished blog project - add gitignore" />
   </component>
 </project>
